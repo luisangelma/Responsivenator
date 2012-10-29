@@ -1,0 +1,18 @@
+@import "compass/css3";
+@import "grid";
+@import "bits";
+@import "media";
+
+body {
+    background: #fff;
+}
+
+p {
+	font-family: 'Antic Slab', serif;
+	padding: 0 0 15px 0;
+	line-height: 5em;
+	font-size: 1.2em;
+	color: #33332d;	
+}
+
+
